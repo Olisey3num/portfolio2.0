@@ -28,7 +28,7 @@ I used the Tailwind CSS
 
 # Live Demo:  
 The site will be available here:  
-[Live Demo Link](https://your-github-username.github.io/portfolio)  
+[Live Demo Link](https://olisey3num.github.io/portfolio2.0/)  
 
 Author: Anthony Oliseyenum Esumeh  
 Email: esumehanthony@gmail.com  
